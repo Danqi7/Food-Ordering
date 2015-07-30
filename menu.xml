@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<menu>
+	<catagory name="Pizza">
+		<dish>
+			<name>Tomato&amp;Cheese</name>
+			<price size="lg">9.75</price>
+			<price size="sm">5.50</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Peppers</name>
+			<price size="lg">10.85</price>
+			<price size="sm">6.85</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Pepperoni</name>
+			<price size="lg">10.85</price>
+			<price size="sm">6.85</price>
+			<description/>
+		</dish>
+	</catagory>
+	<catagory name="Special Dinners">
+		<dish>
+			<name>Chicken Wing Dinner</name>
+			<price>7.25</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Gyro Plate</name>
+			<price>7.25</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Double-cheeseburger Plate</name>
+			<price>5.75</price>
+			<description/>
+		</dish>
+	</catagory>
+	<catagory name="Spaghetti_Ziti_Lasagna">
+		<dish>
+			<name>With Sauce</name>
+			<price>5.40</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>With Sausage</name>
+			<price>6.45</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>With Meatball</name>
+			<price>6.45</price>
+			<description/>
+		</dish>
+	</catagory>
+	<catagory name="Calzones">
+		<dish>
+			<name>Vegetarian</name>
+			<price>7.35</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Sausage</name>
+			<price>7.35</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Meatball</name>
+			<price>7.35</price>
+			<description/>
+		</dish>
+	</catagory>
+	<catagory name="Wrap">
+		<dish>
+			<name>Steak Wrap</name>
+			<price>4.95</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Turkey Club Wrap</name>
+			<price>4.95</price>
+			<description>Turkey, Cheese, Lettuce, Tomato, Onion, Mayo</description>
+		</dish>
+		<dish>
+			<name>Chicken Cobb</name>
+			<price>4.95</price>
+			<description>Grilled Chicken, Bacon, Cheese, Lettuce, Tomato, Onion, 
+			Honey Mustard</description>
+		</dish>
+	</catagory>
+	<catagory name="Grinders">
+		<dish>
+			<name>Meatless</name>
+			<price size="lg">4.50</price>
+			<price size="sm">4.95</price>
+			<description/>
+		</dish>
+		<dish>
+		    <name>Hamburger</name>
+			<price size="lg">4.50</price>
+			<price size="sm">4.95</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Cheese Steak</name>
+			<price size="lg">5.10</price>
+			<price size="sm">6.00</price>
+			<description/>
+		</dish>
+	</catagory>
+	<catagory name="Side Orders">
+		<dish>
+			<name>Onion Rings</name>
+			<price>2.60</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>French Fries</name>
+			<price>2.25</price>
+			<description/>
+		</dish>
+		<dish>
+			<name>Spicy Fries</name>
+			<price>2.60</price>
+			<description/>
+		</dish>
+	</catagory>
+</menu>
