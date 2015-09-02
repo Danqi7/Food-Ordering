@@ -9,8 +9,6 @@ if (isset($_POST['continue']))
 ?>
 
 <script>
-	//1 for large; 0 for small
-	
 	function cancelOrder(dish)
 	{
 		var para = document.getElementById(dish);
